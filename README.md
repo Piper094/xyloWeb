@@ -15,7 +15,7 @@
 
 
 
-## Welcome to GitHub Pages
+## Welcome Tolu and any other people
 
 You can use the [editor on GitHub](https://github.com/Piper094/xyloWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
